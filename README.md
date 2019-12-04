@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by Nina Li_
+_By Nina Li_
 
 ---
 ## Git vs. GitHub
@@ -13,8 +13,8 @@ GitHub is a hosting service where git is allowed to be performed. GitHub is desi
 
 The Initial Setup starts with an IDE(Integrated Development Environment).
 ### Setup for IDE:
-* You have to (create a GitHub account)[https://www.github.com] or login to GitHub account
-* 
+* You have to [create a GitHub account](https://www.github.com) or login to GitHub account
+* Memorize this **link ide.cs50.io**
 
 ---
 ## Repository Setup

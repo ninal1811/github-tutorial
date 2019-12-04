@@ -12,7 +12,7 @@ GitHub is a hosting service where git is allowed to be performed. GitHub is desi
 ## Initial Setup
 
 The Initial Setup starts with an IDE(Integrated Development Environment).
-### *Setup for IDE:*
+### Setup for IDE:
 * You have to (create a GitHub account)[https://www.github.com] or login to GitHub account
 * 
 

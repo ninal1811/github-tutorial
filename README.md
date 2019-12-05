@@ -40,3 +40,9 @@ To make a new repository, go to the top right hand corner and press the add sign
 
 ---
 ## Workflow & Commands
+
+* git init: creates a new git repository 
+* git add: adds your work to your repository 
+* git commit: saves changes made in a file to local repository 
+* git push: sends everything to you local repository
+* git save: saves your work

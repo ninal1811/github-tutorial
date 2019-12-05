@@ -5,7 +5,7 @@ _By Nina Li_
 ---
 ## Git vs. GitHub
 
-Git is a high quality verison control system. 
+Git is a high quality verison control system.
 GitHub is a hosting service where git is allowed to be performed. GitHub is desighed as a Git repository hosting service. GitHub allows you to code and share with others, giving others the ability to make edits.
 
 ---
@@ -41,8 +41,13 @@ To make a new repository, go to the top right hand corner and press the add sign
 ---
 ## Workflow & Commands
 
-* git init: creates a new git repository 
-* git add: adds your work to your repository 
-* git commit: saves changes made in a file to local repository 
+* mkdir: make directory
+* touch: make a file
+* cd: change directory
+* rm: remove
+* rmdir: remove an empty directory
+* git init: creates a new git repository
+* git add: adds your work to your repository
+* git commit: saves changes made in a file to local repository
 * git push: sends everything to you local repository
 * git save: saves your work

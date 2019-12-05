@@ -11,10 +11,10 @@ GitHub is a hosting service where git is allowed to be performed. GitHub is desi
 ---
 ## Initial Setup
 
-The Initial Setup starts with an IDE(Integrated Development Environment).
+The Initial Setup starts with an IDE(Integrated Development Environment). IDE is used for command lines, file trees, text editor, and preview.
 ### Setup for IDE:
 * You have to [create a GitHub account](https://www.github.com) or [login to GitHub account](https://www.github.com)
-* Memorize this **link ide.cs50.io** this is the link you will use to open up your IDE
+* Memorize this **[link ide.cs50.io](https://ide.cs50.io)** --> this is the link you will use to open up your IDE
 * [Click here to setup for IDE](https://github.com/hstatsep/ide50)
 
 ---

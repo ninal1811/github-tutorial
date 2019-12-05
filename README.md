@@ -24,7 +24,7 @@ The Initial Setup starts with an IDE(Integrated Development Environment). IDE is
 * [Login to your IDE](https://ide.cs50.io)
 * Go to GitHub and manke a new repository
 * Go into your IDE
-To make a new repository 
+To make a new repository, go to the top right hand corner and press the add sign **+** and press make repository. Create a name that you want to name the repository with and press create. **Keep in mind that your repository name and the directory name has to match.** After creating the repository, it will bring you to a page where there is three sections under Quick setup. For the Quick setup, make sure that the link is in **SSH FORM** and **NOT HTTP FORM**. Copy the codes from the "…or push an existing repository from the command line" section, which is the two lines that start with git
 
 * Start by creating a directory by using **mkdir** and the name you want to name it
 * Then go into the directory by using **cd** and directory name
